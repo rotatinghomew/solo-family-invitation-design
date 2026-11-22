@@ -1,0 +1,3036 @@
+{
+  "study": {
+    "days": 12,
+    "look_days": [
+      9,
+      16,
+      24
+    ],
+    "familywise_alpha": 0.05,
+    "look_alpha": [
+      0.008,
+      0.012,
+      0.03
+    ],
+    "round_days": [
+      3,
+      19
+    ],
+    "comparison_factors": [
+      "学生交流邀请",
+      "家庭同伴邀请"
+    ]
+  },
+  "students": [
+    {
+      "student": "U000",
+      "household": "F000",
+      "class": "C00"
+    },
+    {
+      "student": "U001",
+      "household": "F001",
+      "class": "C01"
+    },
+    {
+      "student": "U002",
+      "household": "F002",
+      "class": "C02"
+    },
+    {
+      "student": "U003",
+      "household": "F003",
+      "class": "C03"
+    },
+    {
+      "student": "U004",
+      "household": "F004",
+      "class": "C04"
+    },
+    {
+      "student": "U005",
+      "household": "F005",
+      "class": "C05"
+    },
+    {
+      "student": "U006",
+      "household": "F006",
+      "class": "C06"
+    },
+    {
+      "student": "U007",
+      "household": "F007",
+      "class": "C07"
+    },
+    {
+      "student": "U008",
+      "household": "F008",
+      "class": "C08"
+    },
+    {
+      "student": "U009",
+      "household": "F009",
+      "class": "C09"
+    },
+    {
+      "student": "U010",
+      "household": "F010",
+      "class": "C10"
+    },
+    {
+      "student": "U011",
+      "household": "F011",
+      "class": "C11"
+    },
+    {
+      "student": "U012",
+      "household": "F012",
+      "class": "C12"
+    },
+    {
+      "student": "U013",
+      "household": "F013",
+      "class": "C13"
+    },
+    {
+      "student": "U014",
+      "household": "F014",
+      "class": "C14"
+    },
+    {
+      "student": "U015",
+      "household": "F015",
+      "class": "C15"
+    },
+    {
+      "student": "U016",
+      "household": "F016",
+      "class": "C16"
+    },
+    {
+      "student": "U017",
+      "household": "F017",
+      "class": "C17"
+    },
+    {
+      "student": "U018",
+      "household": "F018",
+      "class": "C18"
+    },
+    {
+      "student": "U019",
+      "household": "F019",
+      "class": "C19"
+    },
+    {
+      "student": "U020",
+      "household": "F020",
+      "class": "C20"
+    },
+    {
+      "student": "U021",
+      "household": "F021",
+      "class": "C21"
+    },
+    {
+      "student": "U022",
+      "household": "F022",
+      "class": "C22"
+    },
+    {
+      "student": "U023",
+      "household": "F023",
+      "class": "C23"
+    },
+    {
+      "student": "U024",
+      "household": "F024",
+      "class": "C00"
+    },
+    {
+      "student": "U025",
+      "household": "F025",
+      "class": "C01"
+    },
+    {
+      "student": "U026",
+      "household": "F000",
+      "class": "C02"
+    },
+    {
+      "student": "U027",
+      "household": "F027",
+      "class": "C03"
+    },
+    {
+      "student": "U028",
+      "household": "F028",
+      "class": "C04"
+    },
+    {
+      "student": "U029",
+      "household": "F029",
+      "class": "C05"
+    },
+    {
+      "student": "U030",
+      "household": "F030",
+      "class": "C06"
+    },
+    {
+      "student": "U031",
+      "household": "F031",
+      "class": "C07"
+    },
+    {
+      "student": "U032",
+      "household": "F032",
+      "class": "C08"
+    },
+    {
+      "student": "U033",
+      "household": "F033",
+      "class": "C09"
+    },
+    {
+      "student": "U034",
+      "household": "F034",
+      "class": "C10"
+    },
+    {
+      "student": "U035",
+      "household": "F035",
+      "class": "C11"
+    },
+    {
+      "student": "U036",
+      "household": "F036",
+      "class": "C12"
+    },
+    {
+      "student": "U037",
+      "household": "F037",
+      "class": "C13"
+    },
+    {
+      "student": "U038",
+      "household": "F038",
+      "class": "C14"
+    },
+    {
+      "student": "U039",
+      "household": "F039",
+      "class": "C15"
+    },
+    {
+      "student": "U040",
+      "household": "F040",
+      "class": "C16"
+    },
+    {
+      "student": "U041",
+      "household": "F041",
+      "class": "C17"
+    },
+    {
+      "student": "U042",
+      "household": "F042",
+      "class": "C18"
+    },
+    {
+      "student": "U043",
+      "household": "F043",
+      "class": "C19"
+    },
+    {
+      "student": "U044",
+      "household": "F044",
+      "class": "C20"
+    },
+    {
+      "student": "U045",
+      "household": "F045",
+      "class": "C21"
+    },
+    {
+      "student": "U046",
+      "household": "F046",
+      "class": "C22"
+    },
+    {
+      "student": "U047",
+      "household": "F047",
+      "class": "C23"
+    },
+    {
+      "student": "U048",
+      "household": "F048",
+      "class": "C00"
+    },
+    {
+      "student": "U049",
+      "household": "F049",
+      "class": "C01"
+    },
+    {
+      "student": "U050",
+      "household": "F050",
+      "class": "C02"
+    },
+    {
+      "student": "U051",
+      "household": "F051",
+      "class": "C03"
+    },
+    {
+      "student": "U052",
+      "household": "F052",
+      "class": "C04"
+    },
+    {
+      "student": "U053",
+      "household": "F053",
+      "class": "C05"
+    },
+    {
+      "student": "U054",
+      "household": "F054",
+      "class": "C06"
+    },
+    {
+      "student": "U055",
+      "household": "F055",
+      "class": "C07"
+    },
+    {
+      "student": "U056",
+      "household": "F056",
+      "class": "C08"
+    },
+    {
+      "student": "U057",
+      "household": "F057",
+      "class": "C09"
+    },
+    {
+      "student": "U058",
+      "household": "F058",
+      "class": "C10"
+    },
+    {
+      "student": "U059",
+      "household": "F059",
+      "class": "C11"
+    },
+    {
+      "student": "U060",
+      "household": "F060",
+      "class": "C12"
+    },
+    {
+      "student": "U061",
+      "household": "F061",
+      "class": "C13"
+    },
+    {
+      "student": "U062",
+      "household": "F062",
+      "class": "C14"
+    },
+    {
+      "student": "U063",
+      "household": "F063",
+      "class": "C15"
+    },
+    {
+      "student": "U064",
+      "household": "F064",
+      "class": "C16"
+    },
+    {
+      "student": "U065",
+      "household": "F065",
+      "class": "C17"
+    },
+    {
+      "student": "U066",
+      "household": "F066",
+      "class": "C18"
+    },
+    {
+      "student": "U067",
+      "household": "F067",
+      "class": "C19"
+    },
+    {
+      "student": "U068",
+      "household": "F068",
+      "class": "C20"
+    },
+    {
+      "student": "U069",
+      "household": "F069",
+      "class": "C21"
+    },
+    {
+      "student": "U070",
+      "household": "F070",
+      "class": "C22"
+    },
+    {
+      "student": "U071",
+      "household": "F071",
+      "class": "C23"
+    },
+    {
+      "student": "U072",
+      "household": "F072",
+      "class": "C00"
+    },
+    {
+      "student": "U073",
+      "household": "F073",
+      "class": "C01"
+    },
+    {
+      "student": "U074",
+      "household": "F074",
+      "class": "C02"
+    },
+    {
+      "student": "U075",
+      "household": "F003",
+      "class": "C03"
+    },
+    {
+      "student": "U076",
+      "household": "F076",
+      "class": "C04"
+    },
+    {
+      "student": "U077",
+      "household": "F077",
+      "class": "C05"
+    },
+    {
+      "student": "U078",
+      "household": "F078",
+      "class": "C06"
+    },
+    {
+      "student": "U079",
+      "household": "F079",
+      "class": "C07"
+    },
+    {
+      "student": "U080",
+      "household": "F080",
+      "class": "C08"
+    },
+    {
+      "student": "U081",
+      "household": "F081",
+      "class": "C09"
+    },
+    {
+      "student": "U082",
+      "household": "F082",
+      "class": "C10"
+    },
+    {
+      "student": "U083",
+      "household": "F083",
+      "class": "C11"
+    },
+    {
+      "student": "U084",
+      "household": "F084",
+      "class": "C12"
+    },
+    {
+      "student": "U085",
+      "household": "F085",
+      "class": "C13"
+    },
+    {
+      "student": "U086",
+      "household": "F086",
+      "class": "C14"
+    },
+    {
+      "student": "U087",
+      "household": "F087",
+      "class": "C15"
+    },
+    {
+      "student": "U088",
+      "household": "F088",
+      "class": "C16"
+    },
+    {
+      "student": "U089",
+      "household": "F089",
+      "class": "C17"
+    },
+    {
+      "student": "U090",
+      "household": "F090",
+      "class": "C18"
+    },
+    {
+      "student": "U091",
+      "household": "F091",
+      "class": "C19"
+    },
+    {
+      "student": "U092",
+      "household": "F092",
+      "class": "C20"
+    },
+    {
+      "student": "U093",
+      "household": "F093",
+      "class": "C21"
+    },
+    {
+      "student": "U094",
+      "household": "F094",
+      "class": "C22"
+    },
+    {
+      "student": "U095",
+      "household": "F095",
+      "class": "C23"
+    },
+    {
+      "student": "U096",
+      "household": "F096",
+      "class": "C00"
+    },
+    {
+      "student": "U097",
+      "household": "F097",
+      "class": "C01"
+    },
+    {
+      "student": "U098",
+      "household": "F098",
+      "class": "C02"
+    },
+    {
+      "student": "U099",
+      "household": "F099",
+      "class": "C03"
+    },
+    {
+      "student": "U100",
+      "household": "F100",
+      "class": "C04"
+    },
+    {
+      "student": "U101",
+      "household": "F101",
+      "class": "C05"
+    },
+    {
+      "student": "U102",
+      "household": "F102",
+      "class": "C06"
+    },
+    {
+      "student": "U103",
+      "household": "F103",
+      "class": "C07"
+    },
+    {
+      "student": "U104",
+      "household": "F104",
+      "class": "C08"
+    },
+    {
+      "student": "U105",
+      "household": "F105",
+      "class": "C09"
+    },
+    {
+      "student": "U106",
+      "household": "F106",
+      "class": "C10"
+    },
+    {
+      "student": "U107",
+      "household": "F107",
+      "class": "C11"
+    },
+    {
+      "student": "U108",
+      "household": "F108",
+      "class": "C12"
+    },
+    {
+      "student": "U109",
+      "household": "F109",
+      "class": "C13"
+    },
+    {
+      "student": "U110",
+      "household": "F110",
+      "class": "C14"
+    },
+    {
+      "student": "U111",
+      "household": "F111",
+      "class": "C15"
+    },
+    {
+      "student": "U112",
+      "household": "F112",
+      "class": "C16"
+    },
+    {
+      "student": "U113",
+      "household": "F113",
+      "class": "C17"
+    },
+    {
+      "student": "U114",
+      "household": "F114",
+      "class": "C18"
+    },
+    {
+      "student": "U115",
+      "household": "F115",
+      "class": "C19"
+    },
+    {
+      "student": "U116",
+      "household": "F116",
+      "class": "C20"
+    },
+    {
+      "student": "U117",
+      "household": "F117",
+      "class": "C21"
+    },
+    {
+      "student": "U118",
+      "household": "F118",
+      "class": "C22"
+    },
+    {
+      "student": "U119",
+      "household": "F119",
+      "class": "C23"
+    },
+    {
+      "student": "U120",
+      "household": "F120",
+      "class": "C00"
+    },
+    {
+      "student": "U121",
+      "household": "F121",
+      "class": "C01"
+    },
+    {
+      "student": "U122",
+      "household": "F122",
+      "class": "C02"
+    },
+    {
+      "student": "U123",
+      "household": "F123",
+      "class": "C03"
+    },
+    {
+      "student": "U124",
+      "household": "F124",
+      "class": "C04"
+    },
+    {
+      "student": "U125",
+      "household": "F125",
+      "class": "C05"
+    },
+    {
+      "student": "U126",
+      "household": "F126",
+      "class": "C06"
+    },
+    {
+      "student": "U127",
+      "household": "F127",
+      "class": "C07"
+    },
+    {
+      "student": "U128",
+      "household": "F128",
+      "class": "C08"
+    },
+    {
+      "student": "U129",
+      "household": "F129",
+      "class": "C09"
+    },
+    {
+      "student": "U130",
+      "household": "F130",
+      "class": "C10"
+    },
+    {
+      "student": "U131",
+      "household": "F131",
+      "class": "C11"
+    },
+    {
+      "student": "U132",
+      "household": "F132",
+      "class": "C12"
+    },
+    {
+      "student": "U133",
+      "household": "F133",
+      "class": "C13"
+    },
+    {
+      "student": "U134",
+      "household": "F134",
+      "class": "C14"
+    },
+    {
+      "student": "U135",
+      "household": "F135",
+      "class": "C15"
+    },
+    {
+      "student": "U136",
+      "household": "F136",
+      "class": "C16"
+    },
+    {
+      "student": "U137",
+      "household": "F137",
+      "class": "C17"
+    },
+    {
+      "student": "U138",
+      "household": "F138",
+      "class": "C18"
+    },
+    {
+      "student": "U139",
+      "household": "F139",
+      "class": "C19"
+    },
+    {
+      "student": "U140",
+      "household": "F140",
+      "class": "C20"
+    },
+    {
+      "student": "U141",
+      "household": "F141",
+      "class": "C21"
+    },
+    {
+      "student": "U142",
+      "household": "F142",
+      "class": "C22"
+    },
+    {
+      "student": "U143",
+      "household": "F143",
+      "class": "C23"
+    }
+  ],
+  "classes": [
+    {
+      "class": "C00",
+      "school": "S0",
+      "slot": "T0",
+      "seat_limit": 10,
+      "past_student_arm": 0,
+      "past_adult_arm": 0
+    },
+    {
+      "class": "C01",
+      "school": "S0",
+      "slot": "T0",
+      "seat_limit": 10,
+      "past_student_arm": 0,
+      "past_adult_arm": 1
+    },
+    {
+      "class": "C02",
+      "school": "S0",
+      "slot": "T0",
+      "seat_limit": 10,
+      "past_student_arm": 1,
+      "past_adult_arm": 0
+    },
+    {
+      "class": "C03",
+      "school": "S0",
+      "slot": "T0",
+      "seat_limit": 10,
+      "past_student_arm": 1,
+      "past_adult_arm": 1
+    },
+    {
+      "class": "C04",
+      "school": "S0",
+      "slot": "T1",
+      "seat_limit": 10,
+      "past_student_arm": 0,
+      "past_adult_arm": 0
+    },
+    {
+      "class": "C05",
+      "school": "S0",
+      "slot": "T1",
+      "seat_limit": 10,
+      "past_student_arm": 0,
+      "past_adult_arm": 1
+    },
+    {
+      "class": "C06",
+      "school": "S0",
+      "slot": "T1",
+      "seat_limit": 10,
+      "past_student_arm": 1,
+      "past_adult_arm": 0
+    },
+    {
+      "class": "C07",
+      "school": "S0",
+      "slot": "T1",
+      "seat_limit": 10,
+      "past_student_arm": 1,
+      "past_adult_arm": 1
+    },
+    {
+      "class": "C08",
+      "school": "S1",
+      "slot": "T0",
+      "seat_limit": 10,
+      "past_student_arm": 0,
+      "past_adult_arm": 0
+    },
+    {
+      "class": "C09",
+      "school": "S1",
+      "slot": "T0",
+      "seat_limit": 10,
+      "past_student_arm": 0,
+      "past_adult_arm": 1
+    },
+    {
+      "class": "C10",
+      "school": "S1",
+      "slot": "T0",
+      "seat_limit": 10,
+      "past_student_arm": 1,
+      "past_adult_arm": 0
+    },
+    {
+      "class": "C11",
+      "school": "S1",
+      "slot": "T0",
+      "seat_limit": 10,
+      "past_student_arm": 1,
+      "past_adult_arm": 1
+    },
+    {
+      "class": "C12",
+      "school": "S1",
+      "slot": "T1",
+      "seat_limit": 10,
+      "past_student_arm": 0,
+      "past_adult_arm": 0
+    },
+    {
+      "class": "C13",
+      "school": "S1",
+      "slot": "T1",
+      "seat_limit": 10,
+      "past_student_arm": 0,
+      "past_adult_arm": 1
+    },
+    {
+      "class": "C14",
+      "school": "S1",
+      "slot": "T1",
+      "seat_limit": 10,
+      "past_student_arm": 1,
+      "past_adult_arm": 0
+    },
+    {
+      "class": "C15",
+      "school": "S1",
+      "slot": "T1",
+      "seat_limit": 10,
+      "past_student_arm": 1,
+      "past_adult_arm": 1
+    },
+    {
+      "class": "C16",
+      "school": "S2",
+      "slot": "T0",
+      "seat_limit": 10,
+      "past_student_arm": 0,
+      "past_adult_arm": 0
+    },
+    {
+      "class": "C17",
+      "school": "S2",
+      "slot": "T0",
+      "seat_limit": 10,
+      "past_student_arm": 0,
+      "past_adult_arm": 1
+    },
+    {
+      "class": "C18",
+      "school": "S2",
+      "slot": "T0",
+      "seat_limit": 10,
+      "past_student_arm": 1,
+      "past_adult_arm": 0
+    },
+    {
+      "class": "C19",
+      "school": "S2",
+      "slot": "T0",
+      "seat_limit": 10,
+      "past_student_arm": 1,
+      "past_adult_arm": 1
+    },
+    {
+      "class": "C20",
+      "school": "S2",
+      "slot": "T1",
+      "seat_limit": 10,
+      "past_student_arm": 0,
+      "past_adult_arm": 0
+    },
+    {
+      "class": "C21",
+      "school": "S2",
+      "slot": "T1",
+      "seat_limit": 10,
+      "past_student_arm": 0,
+      "past_adult_arm": 1
+    },
+    {
+      "class": "C22",
+      "school": "S2",
+      "slot": "T1",
+      "seat_limit": 10,
+      "past_student_arm": 1,
+      "past_adult_arm": 0
+    },
+    {
+      "class": "C23",
+      "school": "S2",
+      "slot": "T1",
+      "seat_limit": 10,
+      "past_student_arm": 1,
+      "past_adult_arm": 1
+    }
+  ],
+  "dispatches": [
+    {
+      "student": "U000",
+      "class": "C00",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 12,
+      "sent": false
+    },
+    {
+      "student": "U001",
+      "class": "C01",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U002",
+      "class": "C02",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U003",
+      "class": "C03",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U004",
+      "class": "C04",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U005",
+      "class": "C05",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U006",
+      "class": "C06",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U007",
+      "class": "C07",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U008",
+      "class": "C08",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U009",
+      "class": "C09",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U010",
+      "class": "C10",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U011",
+      "class": "C11",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U012",
+      "class": "C12",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U013",
+      "class": "C13",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U014",
+      "class": "C14",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U015",
+      "class": "C15",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U016",
+      "class": "C16",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U017",
+      "class": "C17",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 12,
+      "sent": true
+    },
+    {
+      "student": "U018",
+      "class": "C18",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U019",
+      "class": "C19",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": false
+    },
+    {
+      "student": "U020",
+      "class": "C20",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U021",
+      "class": "C21",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U022",
+      "class": "C22",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U023",
+      "class": "C23",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U024",
+      "class": "C00",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U025",
+      "class": "C01",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U026",
+      "class": "C02",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U027",
+      "class": "C03",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U028",
+      "class": "C04",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U029",
+      "class": "C05",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U030",
+      "class": "C06",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U031",
+      "class": "C07",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U032",
+      "class": "C08",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U033",
+      "class": "C09",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U034",
+      "class": "C10",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 12,
+      "sent": true
+    },
+    {
+      "student": "U035",
+      "class": "C11",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U036",
+      "class": "C12",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U037",
+      "class": "C13",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U038",
+      "class": "C14",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": false
+    },
+    {
+      "student": "U039",
+      "class": "C15",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U040",
+      "class": "C16",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U041",
+      "class": "C17",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U042",
+      "class": "C18",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U043",
+      "class": "C19",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U044",
+      "class": "C20",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U045",
+      "class": "C21",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U046",
+      "class": "C22",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U047",
+      "class": "C23",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U048",
+      "class": "C00",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U049",
+      "class": "C01",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U050",
+      "class": "C02",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U051",
+      "class": "C03",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 12,
+      "sent": true
+    },
+    {
+      "student": "U052",
+      "class": "C04",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U053",
+      "class": "C05",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U054",
+      "class": "C06",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U055",
+      "class": "C07",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U056",
+      "class": "C08",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U057",
+      "class": "C09",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": false
+    },
+    {
+      "student": "U058",
+      "class": "C10",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U059",
+      "class": "C11",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U060",
+      "class": "C12",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U061",
+      "class": "C13",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U062",
+      "class": "C14",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U063",
+      "class": "C15",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U064",
+      "class": "C16",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U065",
+      "class": "C17",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U066",
+      "class": "C18",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U067",
+      "class": "C19",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U068",
+      "class": "C20",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 12,
+      "sent": true
+    },
+    {
+      "student": "U069",
+      "class": "C21",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U070",
+      "class": "C22",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U071",
+      "class": "C23",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U072",
+      "class": "C00",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U073",
+      "class": "C01",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U074",
+      "class": "C02",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U075",
+      "class": "C03",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U076",
+      "class": "C04",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": false
+    },
+    {
+      "student": "U077",
+      "class": "C05",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U078",
+      "class": "C06",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U079",
+      "class": "C07",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U080",
+      "class": "C08",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U081",
+      "class": "C09",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U082",
+      "class": "C10",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U083",
+      "class": "C11",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U084",
+      "class": "C12",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U085",
+      "class": "C13",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 12,
+      "sent": true
+    },
+    {
+      "student": "U086",
+      "class": "C14",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U087",
+      "class": "C15",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U088",
+      "class": "C16",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U089",
+      "class": "C17",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U090",
+      "class": "C18",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U091",
+      "class": "C19",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U092",
+      "class": "C20",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U093",
+      "class": "C21",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U094",
+      "class": "C22",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U095",
+      "class": "C23",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": false
+    },
+    {
+      "student": "U096",
+      "class": "C00",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U097",
+      "class": "C01",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U098",
+      "class": "C02",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U099",
+      "class": "C03",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U100",
+      "class": "C04",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U101",
+      "class": "C05",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U102",
+      "class": "C06",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 12,
+      "sent": true
+    },
+    {
+      "student": "U103",
+      "class": "C07",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U104",
+      "class": "C08",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U105",
+      "class": "C09",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U106",
+      "class": "C10",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U107",
+      "class": "C11",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U108",
+      "class": "C12",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U109",
+      "class": "C13",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U110",
+      "class": "C14",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U111",
+      "class": "C15",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U112",
+      "class": "C16",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U113",
+      "class": "C17",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U114",
+      "class": "C18",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": false
+    },
+    {
+      "student": "U115",
+      "class": "C19",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U116",
+      "class": "C20",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U117",
+      "class": "C21",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U118",
+      "class": "C22",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U119",
+      "class": "C23",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 12,
+      "sent": true
+    },
+    {
+      "student": "U120",
+      "class": "C00",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U121",
+      "class": "C01",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U122",
+      "class": "C02",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U123",
+      "class": "C03",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U124",
+      "class": "C04",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U125",
+      "class": "C05",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U126",
+      "class": "C06",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U127",
+      "class": "C07",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U128",
+      "class": "C08",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U129",
+      "class": "C09",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U130",
+      "class": "C10",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U131",
+      "class": "C11",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U132",
+      "class": "C12",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U133",
+      "class": "C13",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": false
+    },
+    {
+      "student": "U134",
+      "class": "C14",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U135",
+      "class": "C15",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U136",
+      "class": "C16",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 12,
+      "sent": true
+    },
+    {
+      "student": "U137",
+      "class": "C17",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U138",
+      "class": "C18",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U139",
+      "class": "C19",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U140",
+      "class": "C20",
+      "adult_arm": 0,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U141",
+      "class": "C21",
+      "adult_arm": 1,
+      "student_arm": 0,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U142",
+      "class": "C22",
+      "adult_arm": 0,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    },
+    {
+      "student": "U143",
+      "class": "C23",
+      "adult_arm": 1,
+      "student_arm": 1,
+      "day": 3,
+      "sent": true
+    }
+  ],
+  "followup": [
+    {
+      "student": "U001",
+      "observed_day": 10,
+      "student_outcome": "未取得来源",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U002",
+      "observed_day": 11,
+      "student_outcome": "拒绝",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U003",
+      "observed_day": 12,
+      "student_outcome": "未取得来源",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U004",
+      "observed_day": 13,
+      "student_outcome": "拒绝",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U005",
+      "observed_day": 14,
+      "student_outcome": "拒绝",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U006",
+      "observed_day": 15,
+      "student_outcome": "未取得来源",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U007",
+      "observed_day": 16,
+      "student_outcome": "未取得来源",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U008",
+      "observed_day": 17,
+      "student_outcome": "未到访",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U009",
+      "observed_day": 18,
+      "student_outcome": "拒绝",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U010",
+      "observed_day": 19,
+      "student_outcome": "未取得来源",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U012",
+      "observed_day": 21,
+      "student_outcome": "到访",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U013",
+      "observed_day": 22,
+      "student_outcome": "未取得来源",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U014",
+      "observed_day": 23,
+      "student_outcome": "未到访",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U015",
+      "observed_day": 24,
+      "student_outcome": "到访",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U016",
+      "observed_day": 9,
+      "student_outcome": "到访",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U017",
+      "observed_day": 10,
+      "student_outcome": "未取得来源",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U018",
+      "observed_day": 11,
+      "student_outcome": "拒绝",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U019",
+      "observed_day": 12,
+      "student_outcome": "拒绝",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U020",
+      "observed_day": 13,
+      "student_outcome": "未到访",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U021",
+      "observed_day": 14,
+      "student_outcome": "未取得来源",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U023",
+      "observed_day": 16,
+      "student_outcome": "到访",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U024",
+      "observed_day": 17,
+      "student_outcome": "未取得来源",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U025",
+      "observed_day": 18,
+      "student_outcome": "未到访",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U026",
+      "observed_day": 19,
+      "student_outcome": "未到访",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U027",
+      "observed_day": 20,
+      "student_outcome": "到访",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U028",
+      "observed_day": 21,
+      "student_outcome": "未到访",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U029",
+      "observed_day": 22,
+      "student_outcome": "拒绝",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U030",
+      "observed_day": 23,
+      "student_outcome": "未取得来源",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U031",
+      "observed_day": 24,
+      "student_outcome": "到访",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U032",
+      "observed_day": 9,
+      "student_outcome": "到访",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U034",
+      "observed_day": 11,
+      "student_outcome": "拒绝",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U035",
+      "observed_day": 12,
+      "student_outcome": "未到访",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U036",
+      "observed_day": 13,
+      "student_outcome": "到访",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U037",
+      "observed_day": 14,
+      "student_outcome": "未到访",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U038",
+      "observed_day": 15,
+      "student_outcome": "未到访",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U039",
+      "observed_day": 16,
+      "student_outcome": "未到访",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U040",
+      "observed_day": 17,
+      "student_outcome": "未取得来源",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U041",
+      "observed_day": 18,
+      "student_outcome": "未取得来源",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U042",
+      "observed_day": 19,
+      "student_outcome": "未到访",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U043",
+      "observed_day": 20,
+      "student_outcome": "未取得来源",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U045",
+      "observed_day": 22,
+      "student_outcome": "未到访",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U046",
+      "observed_day": 23,
+      "student_outcome": "拒绝",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U047",
+      "observed_day": 24,
+      "student_outcome": "未到访",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U048",
+      "observed_day": 9,
+      "student_outcome": "未取得来源",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U049",
+      "observed_day": 10,
+      "student_outcome": "未到访",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U050",
+      "observed_day": 11,
+      "student_outcome": "拒绝",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U051",
+      "observed_day": 12,
+      "student_outcome": "拒绝",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U052",
+      "observed_day": 13,
+      "student_outcome": "未到访",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U053",
+      "observed_day": 14,
+      "student_outcome": "未到访",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U054",
+      "observed_day": 15,
+      "student_outcome": "未取得来源",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U056",
+      "observed_day": 17,
+      "student_outcome": "拒绝",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U057",
+      "observed_day": 18,
+      "student_outcome": "未取得来源",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U058",
+      "observed_day": 19,
+      "student_outcome": "到访",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U059",
+      "observed_day": 20,
+      "student_outcome": "未到访",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U060",
+      "observed_day": 21,
+      "student_outcome": "未取得来源",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U061",
+      "observed_day": 22,
+      "student_outcome": "未取得来源",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U062",
+      "observed_day": 23,
+      "student_outcome": "未到访",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U063",
+      "observed_day": 24,
+      "student_outcome": "到访",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U064",
+      "observed_day": 9,
+      "student_outcome": "未取得来源",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U065",
+      "observed_day": 10,
+      "student_outcome": "未取得来源",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U067",
+      "observed_day": 12,
+      "student_outcome": "未到访",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U068",
+      "observed_day": 13,
+      "student_outcome": "未取得来源",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U069",
+      "observed_day": 14,
+      "student_outcome": "未到访",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U070",
+      "observed_day": 15,
+      "student_outcome": "到访",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U071",
+      "observed_day": 16,
+      "student_outcome": "未取得来源",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U072",
+      "observed_day": 17,
+      "student_outcome": "未到访",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U073",
+      "observed_day": 18,
+      "student_outcome": "未取得来源",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U074",
+      "observed_day": 19,
+      "student_outcome": "未取得来源",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U075",
+      "observed_day": 20,
+      "student_outcome": "未到访",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U076",
+      "observed_day": 21,
+      "student_outcome": "拒绝",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U078",
+      "observed_day": 23,
+      "student_outcome": "未取得来源",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U079",
+      "observed_day": 24,
+      "student_outcome": "未取得来源",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U080",
+      "observed_day": 9,
+      "student_outcome": "到访",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U081",
+      "observed_day": 10,
+      "student_outcome": "拒绝",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U082",
+      "observed_day": 11,
+      "student_outcome": "到访",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U083",
+      "observed_day": 12,
+      "student_outcome": "拒绝",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U084",
+      "observed_day": 13,
+      "student_outcome": "未取得来源",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U085",
+      "observed_day": 14,
+      "student_outcome": "未取得来源",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U086",
+      "observed_day": 15,
+      "student_outcome": "未取得来源",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U087",
+      "observed_day": 16,
+      "student_outcome": "未取得来源",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U089",
+      "observed_day": 18,
+      "student_outcome": "未取得来源",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U090",
+      "observed_day": 19,
+      "student_outcome": "拒绝",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U091",
+      "observed_day": 20,
+      "student_outcome": "未到访",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U092",
+      "observed_day": 21,
+      "student_outcome": "未到访",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U093",
+      "observed_day": 22,
+      "student_outcome": "拒绝",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U094",
+      "observed_day": 23,
+      "student_outcome": "未到访",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U095",
+      "observed_day": 24,
+      "student_outcome": "未到访",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U096",
+      "observed_day": 9,
+      "student_outcome": "未取得来源",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U097",
+      "observed_day": 10,
+      "student_outcome": "到访",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U098",
+      "observed_day": 11,
+      "student_outcome": "拒绝",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U100",
+      "observed_day": 13,
+      "student_outcome": "未取得来源",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U101",
+      "observed_day": 14,
+      "student_outcome": "未到访",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U102",
+      "observed_day": 15,
+      "student_outcome": "未到访",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U103",
+      "observed_day": 16,
+      "student_outcome": "未到访",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U104",
+      "observed_day": 17,
+      "student_outcome": "到访",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U105",
+      "observed_day": 18,
+      "student_outcome": "到访",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U106",
+      "observed_day": 19,
+      "student_outcome": "拒绝",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U107",
+      "observed_day": 20,
+      "student_outcome": "到访",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U108",
+      "observed_day": 21,
+      "student_outcome": "拒绝",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U109",
+      "observed_day": 22,
+      "student_outcome": "未取得来源",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U111",
+      "observed_day": 24,
+      "student_outcome": "拒绝",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U112",
+      "observed_day": 9,
+      "student_outcome": "未取得来源",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U113",
+      "observed_day": 10,
+      "student_outcome": "未到访",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U114",
+      "observed_day": 11,
+      "student_outcome": "到访",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U115",
+      "observed_day": 12,
+      "student_outcome": "未到访",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U116",
+      "observed_day": 13,
+      "student_outcome": "未取得来源",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U117",
+      "observed_day": 14,
+      "student_outcome": "未到访",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U118",
+      "observed_day": 15,
+      "student_outcome": "未到访",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U119",
+      "observed_day": 16,
+      "student_outcome": "未取得来源",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U120",
+      "observed_day": 17,
+      "student_outcome": "到访",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U122",
+      "observed_day": 19,
+      "student_outcome": "到访",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U123",
+      "observed_day": 20,
+      "student_outcome": "拒绝",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U124",
+      "observed_day": 21,
+      "student_outcome": "未到访",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U125",
+      "observed_day": 22,
+      "student_outcome": "拒绝",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U126",
+      "observed_day": 23,
+      "student_outcome": "未到访",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U127",
+      "observed_day": 24,
+      "student_outcome": "拒绝",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U128",
+      "observed_day": 9,
+      "student_outcome": "未到访",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U129",
+      "observed_day": 10,
+      "student_outcome": "拒绝",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U130",
+      "observed_day": 11,
+      "student_outcome": "未取得来源",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U131",
+      "observed_day": 12,
+      "student_outcome": "未到访",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U133",
+      "observed_day": 14,
+      "student_outcome": "未取得来源",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U134",
+      "observed_day": 15,
+      "student_outcome": "拒绝",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U135",
+      "observed_day": 16,
+      "student_outcome": "到访",
+      "family_outcome": "拒绝"
+    },
+    {
+      "student": "U136",
+      "observed_day": 17,
+      "student_outcome": "未取得来源",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U137",
+      "observed_day": 18,
+      "student_outcome": "未取得来源",
+      "family_outcome": "收到回执"
+    },
+    {
+      "student": "U138",
+      "observed_day": 19,
+      "student_outcome": "到访",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U139",
+      "observed_day": 20,
+      "student_outcome": "拒绝",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U140",
+      "observed_day": 21,
+      "student_outcome": "未取得来源",
+      "family_outcome": "来源缺失"
+    },
+    {
+      "student": "U141",
+      "observed_day": 22,
+      "student_outcome": "未取得来源",
+      "family_outcome": "未回执"
+    },
+    {
+      "student": "U142",
+      "observed_day": 23,
+      "student_outcome": "未到访",
+      "family_outcome": "未回执"
+    }
+  ],
+  "amendments": [
+    {
+      "day": 15,
+      "student": "U005",
+      "corrected_household": "F000",
+      "reason": "补录跨班同户"
+    },
+    {
+      "day": 17,
+      "student": "U110",
+      "corrected_household": "F109",
+      "reason": "补录同户"
+    }
+  ],
+  "next_round": [
+    {
+      "class": "C00",
+      "slot": "T0",
+      "available": 8,
+      "confirmed_limit": 0
+    },
+    {
+      "class": "C01",
+      "slot": "T1",
+      "available": 9,
+      "confirmed_limit": 1
+    },
+    {
+      "class": "C02",
+      "slot": "T0",
+      "available": 10,
+      "confirmed_limit": 2
+    },
+    {
+      "class": "C03",
+      "slot": "T1",
+      "available": 8,
+      "confirmed_limit": 0
+    },
+    {
+      "class": "C04",
+      "slot": "T0",
+      "available": 9,
+      "confirmed_limit": 1
+    },
+    {
+      "class": "C05",
+      "slot": "T1",
+      "available": 10,
+      "confirmed_limit": 2
+    },
+    {
+      "class": "C06",
+      "slot": "T0",
+      "available": 8,
+      "confirmed_limit": 0
+    },
+    {
+      "class": "C07",
+      "slot": "T1",
+      "available": 9,
+      "confirmed_limit": 1
+    },
+    {
+      "class": "C08",
+      "slot": "T0",
+      "available": 10,
+      "confirmed_limit": 2
+    },
+    {
+      "class": "C09",
+      "slot": "T1",
+      "available": 8,
+      "confirmed_limit": 0
+    },
+    {
+      "class": "C10",
+      "slot": "T0",
+      "available": 9,
+      "confirmed_limit": 1
+    },
+    {
+      "class": "C11",
+      "slot": "T1",
+      "available": 10,
+      "confirmed_limit": 2
+    },
+    {
+      "class": "C12",
+      "slot": "T0",
+      "available": 8,
+      "confirmed_limit": 0
+    },
+    {
+      "class": "C13",
+      "slot": "T1",
+      "available": 9,
+      "confirmed_limit": 1
+    },
+    {
+      "class": "C14",
+      "slot": "T0",
+      "available": 10,
+      "confirmed_limit": 2
+    },
+    {
+      "class": "C15",
+      "slot": "T1",
+      "available": 8,
+      "confirmed_limit": 0
+    },
+    {
+      "class": "C16",
+      "slot": "T0",
+      "available": 9,
+      "confirmed_limit": 1
+    },
+    {
+      "class": "C17",
+      "slot": "T1",
+      "available": 10,
+      "confirmed_limit": 2
+    },
+    {
+      "class": "C18",
+      "slot": "T0",
+      "available": 8,
+      "confirmed_limit": 0
+    },
+    {
+      "class": "C19",
+      "slot": "T1",
+      "available": 9,
+      "confirmed_limit": 1
+    },
+    {
+      "class": "C20",
+      "slot": "T0",
+      "available": 10,
+      "confirmed_limit": 2
+    },
+    {
+      "class": "C21",
+      "slot": "T1",
+      "available": 8,
+      "confirmed_limit": 0
+    },
+    {
+      "class": "C22",
+      "slot": "T0",
+      "available": 9,
+      "confirmed_limit": 1
+    },
+    {
+      "class": "C23",
+      "slot": "T1",
+      "available": 10,
+      "confirmed_limit": 2
+    }
+  ]
+}
