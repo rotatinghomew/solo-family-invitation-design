@@ -21,6 +21,505 @@
       "家庭同伴邀请"
     ]
   },
+  "original_draw": {
+    "selected_index": 0,
+    "probabilities": [
+      0.25,
+      0.25,
+      0.25,
+      0.25
+    ],
+    "alternatives": [
+      [
+        {
+          "class": "C00",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C01",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C02",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C03",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C04",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C05",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C06",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C07",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C08",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C09",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C10",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C11",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C12",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C13",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C14",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C15",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C16",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C17",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C18",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C19",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C20",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C21",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C22",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C23",
+          "adult_arm": 1,
+          "student_arm": 1
+        }
+      ],
+      [
+        {
+          "class": "C00",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C01",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C02",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C03",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C04",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C05",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C06",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C07",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C08",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C09",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C10",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C11",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C12",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C13",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C14",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C15",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C16",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C17",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C18",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C19",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C20",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C21",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C22",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C23",
+          "adult_arm": 0,
+          "student_arm": 1
+        }
+      ],
+      [
+        {
+          "class": "C00",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C01",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C02",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C03",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C04",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C05",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C06",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C07",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C08",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C09",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C10",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C11",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C12",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C13",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C14",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C15",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C16",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C17",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C18",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C19",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C20",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C21",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C22",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C23",
+          "adult_arm": 1,
+          "student_arm": 0
+        }
+      ],
+      [
+        {
+          "class": "C00",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C01",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C02",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C03",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C04",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C05",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C06",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C07",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C08",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C09",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C10",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C11",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C12",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C13",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C14",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C15",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C16",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C17",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C18",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C19",
+          "adult_arm": 0,
+          "student_arm": 0
+        },
+        {
+          "class": "C20",
+          "adult_arm": 1,
+          "student_arm": 1
+        },
+        {
+          "class": "C21",
+          "adult_arm": 0,
+          "student_arm": 1
+        },
+        {
+          "class": "C22",
+          "adult_arm": 1,
+          "student_arm": 0
+        },
+        {
+          "class": "C23",
+          "adult_arm": 0,
+          "student_arm": 0
+        }
+      ]
+    ]
+  },
   "students": [
     {
       "student": "U000",
@@ -400,7 +899,7 @@
     {
       "student": "U075",
       "household": "F003",
-      "class": "C03"
+      "class": "C07"
     },
     {
       "student": "U076",
@@ -1540,7 +2039,7 @@
     },
     {
       "student": "U075",
-      "class": "C03",
+      "class": "C07",
       "adult_arm": 1,
       "student_arm": 1,
       "day": 3,
